@@ -1,0 +1,127 @@
+body {
+    background-color: rgb(148, 192, 243);
+}
+
+.img {
+    position: relative;
+    left: 500px;
+}
+
+.Meet {
+    position: relative;
+    left: 200px;
+}
+
+.Facts {
+    position: relative;
+    left: 600px;
+    bottom: 40px;
+}
+
+.pets {
+    position: relative;
+    left: 1000px;
+    bottom: 190px;
+}
+
+.mc {
+    position: relative;
+    left: 550px;
+    bottom: 40px;
+}
+
+.mp {
+    position: relative;
+    left: 970px;
+    bottom: 190px;
+}
+
+.h1 {
+    position: relative;
+    width: 600px;
+    padding: 50px;
+    border: 15px solid darkorange;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    bottom: 140px;
+}
+
+.faq {
+    position: relative;
+    width: 600px;
+    padding: 50px;
+    border: 15px solid darkorange;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.art {
+    position: relative;
+    width: 600px;
+    padding: 50px;
+    border: 15px solid darkorange;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.are {
+    position: relative;
+    width: 600px;
+    padding: 50px;
+    border: 15px solid darkorange;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.art2 {
+    position: absolute;
+    width: 300px;
+    padding: 50px;
+    border: 15px solid darkorange;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    top: 450px;
+    left: 800px;
+}
+
+
+#Capybara {
+    color: darkorange;
+}
+
+a {
+    color: rgb(78, 13, 116);
+}
+
+nav {
+    color: blue;
+}
+
+#What {
+    color: darkorange;
+}
+
+#Where {
+    color: darkorange;
+}
+
+#Reproduction {
+    color: darkorange;
+}
+
+#Eat {
+    color: darkorange;
+}
+
+footer {
+    background-color: aliceblue;
+}
